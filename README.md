@@ -1,4 +1,4 @@
-# JoKenPo Smart Contract README
+# JoKenPo Smart Contract
 
 ## Overview
 
